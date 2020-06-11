@@ -3,3 +3,4 @@ sua duoc file nhung ko push duoc len
 loi quyen truy cap
 bat luc huhu
 commit lan 6
+lan 7
