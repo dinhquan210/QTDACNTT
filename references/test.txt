@@ -1,2 +1,2 @@
 hihi
-khong mo duoc file btl.do
+sua duoc file nhung ko push duoc len
